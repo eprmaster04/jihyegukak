@@ -2050,5 +2050,13 @@ header .circle {
     margin: 0.25rem 0;
   }
 }
+@media only screen and (max-width: 600px) {
+  .section-body p {
+    font-size: 90%;
+  }
+  .section-body h3 {
+    font-size: 110%;
+  }
+}
 
 /* End Responsive */
